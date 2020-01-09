@@ -1,0 +1,5 @@
+- 打印gc日志
+  - -XX:+PrintGCDetails -XX:+PrintGCDateStamps -XX:+PrintGCTimeStamps -Xloggc:gc.log -XX:+PrintHeapAtGC
+- 日志分析
+  - gceasy
+  - gcviewer

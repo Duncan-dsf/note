@@ -1,0 +1,2 @@
+- 插件不执行
+  - configuration skip true
