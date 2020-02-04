@@ -1,0 +1,2 @@
+- 设置编码为utf8
+  - 在server或location中加charset utf-8;
